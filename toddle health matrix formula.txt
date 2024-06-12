@@ -1,0 +1,21 @@
+1. total number of student , total staff  ratio -- x = (02/N2)*10
+
+2. total class , total learning experience ratio -- y = (M2/Q2)*10
+	
+3. total announcement , total journal post ratio -- z = (S2/R2)*10
+
+A2 = IF(x > 57, "Excellent", IF(AND(x >= 29, x <= 57), "Concern", "Poor"))
+
+B2 = IF(y > 45, "Excellent", IF(AND(y >= 12, y <= 45), "Concern", "Poor"))
+
+C2 = (z > 116, "Excellent", IF(AND(z >= 33, z <= 116), "Concern", "Poor"))
+
+
+
+
+
+
+
+
+
+HealthMatrix With Indivisual Obserbation Of ratios(final) -- =IF(AND(A2="Poor", B2="Poor", C2="Poor"), "Poor", IF(COUNTIF(A2:C2, "Excellent")>=2, "Excellent", "Concern"))

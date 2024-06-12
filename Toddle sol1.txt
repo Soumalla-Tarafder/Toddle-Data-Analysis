@@ -1,0 +1,44 @@
+KPIs:--
+
+	1.Avarage days with respect to onboarding process states.
+
+	2.Maximum days with respect to onboarding process states.
+
+Slicers:--
+
+	1. Risk Tag
+
+	2. Cutomer journey stage
+
+Analysis of Stages Slowing Down Onboarding:--
+
+	1. Go-live Readiness
+
+		Average Days: 177
+
+		Maximum Days: 631
+
+		Analysis: This stage takes the longest time on average and also has the highest maximum days, indicating significant variability. It suggests complexities and 		potential challenges in getting schools fully prepared and operational with Toddle.
+
+
+		Solutions: Streamlining technical integrations, providing clearer setup guides, and potentially offering more targeted training sessions to address specific 		school needs.
+
+	2. Training
+
+		Average Days: 247
+
+		Maximum Days: 817
+
+		Analysis: There is a substantial gap between the average and maximum days, which implies that while some schools get through training quickly, others take 		much longer.
+
+		Solutions: Offering modular, customizable training programs that can be adapted to the school's or staff's specific skill levels could help. Additionally, 		providing online resources for self-paced learning might reduce delays.
+
+	3.Information Transfer
+
+		Average Days: 86
+
+		Maximum Days: 135
+
+		Analysis: Although not as prolonged as other stages, the time taken to transfer essential curriculum information can vary.
+
+		Solutions: Automating data transfer processes where possible and ensuring data is in a compatible format beforehand can speed up this stage.

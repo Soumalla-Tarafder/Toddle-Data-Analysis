@@ -1,0 +1,53 @@
+KPIs:-- 
+
+	1. total number of student , total staff  ratio
+
+	2. total class , total learning experience ratio
+	
+	3. total announcement , total journal post ratio
+
+
+Health Matrixes Calculation:-- 
+
+	Here we have calculated the health matrix in 2 parts i.e.
+
+	1. We have calculated the "health matrix" for the individual KPIs with respect to the 33 percentile data [0-33 percentile lies in "poor" category , 33-66 percentile 	data lies into "concerning" category and above 66 percentile lies between "excellent" category].
+
+	2. Then we calculated the final "Health Matrix" using the individual KPIs "health matrix" i.e. [if all the 3 KPIs "health matrix" value is "poor" then the final 	"Health Matrix" value will be poor , if any of 2 KPIs "health matrix" value is "excellent" we consider the final "Health Matrix" value will be "excellent", otherwise 	the final "Health Matrix" value will be "concerning"].
+
+
+Solutions for Each Cohort:--
+
+
+	Excellent:
+
+		Continue Engaging:-- Provide advanced workshops and webinars to further enhance their capabilities and explore new features.
+
+		Reward Program:-- Introduce a rewards system for actively using the platform to encourage continued excellence and possibly turn these schools into case 		studies or ambassadors.
+
+		Custom Features:-- Offer beta testing opportunities for new features or customization options to keep them engaged and responsive to their specific needs.
+
+		Enhanced Community Features:-- Implement features that encourage community interaction, such as forums, discussion boards, or live events.
+
+		Personalized Content:-- Provide personalized recommendations based on user activity to keep them engaged.
+
+
+	Concerning:
+
+		Targeted Training:-- Provide specific training sessions focusing on underutilized features or those where engagement is lacking.
+
+		Feedback Sessions:-- Regular feedback sessions to identify their struggles or suggestions for improving their experience.
+
+		Engagement Campaigns:-- Implement engagement campaigns with goals and rewards for reaching specific milestones in product usage.
+
+		Feature Enhancements:-- Continuously improve existing features based on user feedback to increase usability and engagement.
+
+	Poor:
+
+		Initial Handholding:-- Increase support with a dedicated account manager to guide them through the setup process and initial usage phases.
+
+		Basic Training and Resources:-- Offer more comprehensive onboarding training and readily available troubleshooting resources.
+
+		Follow-up and Evaluation:-- Regular follow-up calls to evaluate their progress, address any issues, and adjust their usage strategy accordingly.
+
+		Onboarding Improvements:-- Enhance the onboarding process to make it more intuitive and engaging.
